@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "id": "server_sponsor",
+  "version": "${version}",
+  "name": "Server Sponsor Button",
+  "description": "Adds a configurable sponsor button to the main menu.",
+  "authors": ["Yusuf Emin"],
+  "license": "MIT",
+  "environment": "client",
+  "entrypoints": {
+    "client": ["com.yusufemin.sponsor.SponsorModClient"]
+  },
+  "mixins": ["server_sponsor.mixins.json"],
+  "depends": {
+    "fabricloader": "*",
+    "minecraft": "*",
+    "java": "*"
+  }
+}

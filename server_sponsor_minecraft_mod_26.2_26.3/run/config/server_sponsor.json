@@ -1,0 +1,14 @@
+{
+  "configVersion": 3,
+  "buttonText": "Server Hosting -25%",
+  "buttonWidth": 120,
+  "xOffset": 0,
+  "yOffset": 0,
+  "popupTitle": "Shockbyte Server Hosting",
+  "popupDescription": "Get 25% OFF using code: {code}",
+  "copyAndOpenText": "Copy Code \u0026 Open Site",
+  "openOnlyText": "Open Site Only",
+  "cancelText": "Cancel",
+  "discountCode": "YUSUFEMIN",
+  "targetUrl": "https://shockbyte.com/partner/yusufemin"
+}
